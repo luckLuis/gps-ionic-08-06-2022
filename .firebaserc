@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "migps-3f1bb": {
+      "hosting": {
+        "app": [
+          "migps-3f1bb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "migps-3f1bb"
+  }
+}
